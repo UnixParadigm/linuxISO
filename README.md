@@ -1,7 +1,8 @@
 # linuxISO
 Funny dash script for downloading ISOs of distros I like to keep on my ventoy USB
 #
-
+![image](https://github.com/UnixParadigm/linuxISO/assets/46477191/6eea4404-4659-4431-919a-5b69b92736f8)
+#
 This script expects a `.ventoy` file in your CWD to make sure its running in the right spot (200GB of ISOs in your home dir would kinda sux)
 
 It also depends on wget2, even tho normal wget would work just fine. wget2 is just more performant and has the cool looking download bars :D
